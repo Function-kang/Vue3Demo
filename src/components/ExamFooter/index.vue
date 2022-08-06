@@ -29,7 +29,6 @@
 <script>
 export default {
   name: "examFooter",
-  // props: ["submitForm", "total", "answerObj", "answerArr"],
   props: {
     submitForm: Function,
     total: Number,

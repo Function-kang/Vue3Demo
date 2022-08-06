@@ -189,10 +189,6 @@ export default {
         }
       });
       if (bool) {
-        // ElMessage({
-        //   message: "提交成功",
-        //   type: "success",
-        // });
         this.dialogTableVisible = true;
       } else {
         ElMessage({
